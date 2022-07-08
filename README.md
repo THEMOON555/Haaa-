@@ -1,3 +1,4 @@
+# Hard Script 
 # Cara Install
 $git clone https://github.com/THEMOON555/Haaa
 
